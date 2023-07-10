@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-image: url(ue.jpg);
+    background-color: aqua;
+}
+.box{
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: red 5px 5px 5px;
+    background-color: darkcyan;
+    width: 400px;
+    margin: auto;
+    border-style: groove;    
+}
